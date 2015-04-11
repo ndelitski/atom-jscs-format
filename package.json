@@ -1,0 +1,16 @@
+{
+  "name": "jscs-format",
+  "main": "./lib/jscs-formatter",
+  "version": "0.0.1",
+  "description": "Simply invokes `jscs --fix` on current opened file",
+  "activationCommands": {
+    "atom-workspace": "jscs-formatter:toggle"
+  },
+  "repository": "https://github.com/ndelitski/jscs-formatter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
