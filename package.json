@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "jscs-formatter:toggle"
   },
-  "repository": "https://github.com/ndelitski/jscs-formatter",
+  "repository": "https://github.com/ndelitski/atom-jscs-format",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
